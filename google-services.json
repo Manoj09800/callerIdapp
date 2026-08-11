@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493450676022",
+    "project_id": "calleridapp-ac272",
+    "storage_bucket": "calleridapp-ac272.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493450676022:android:4d5526e9bfa436c5359597",
+        "android_client_info": {
+          "package_name": "com.example.calleridapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRa_JiA694lSEQW-yMKO-OkWnReBKpQZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
